@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @BoraKaygin
-- 👀 I’m interested in video games, problem solving, competitive programming
+- 👀 I’m interested in making and playing video games, software, problem-solving
